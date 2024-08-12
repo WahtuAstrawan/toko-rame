@@ -1,6 +1,6 @@
 # Toko Rame
 
-Created by WahtuAstrawan --- Tested with Tested with Pixel 7 API 35 (Android)
+Created by WahtuAstrawan --- Tested with Pixel 7 API 35 (Android)
 
 ## Getting Started
 
