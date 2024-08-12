@@ -1,6 +1,6 @@
-# mobile_intern_test_aksa_ast
+# Toko Rame
 
-A new Flutter project.
+Created by WahtuAstrawan --- Tested with Tested with Pixel 7 API 35 (Android)
 
 ## Getting Started
 
