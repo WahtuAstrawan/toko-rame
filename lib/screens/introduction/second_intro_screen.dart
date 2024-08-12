@@ -37,7 +37,7 @@ class SecondIntroScreen extends StatelessWidget {
             child: IntroContent(
               title: 'Ribuan Produk\ndengan Kualitas Terbaik',
               desc:
-                  'Tokorame menyediakan ribuan produk dengan kualitas\nterbaik dari seller terpercaya',
+                  'Tokorame menyediakan ribuan produk dengan kualitas\nterbaik dari seller terpercaya\n',
               textButton: 'Selanjutnya',
               onNext: onNext,
             )),

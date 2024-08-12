@@ -28,7 +28,7 @@ class ThirdIntroScreen extends StatelessWidget {
             right: 0,
             child: IntroContent(
               title: 'Toko Online Unik\nUntuk Kamu Jualan',
-              desc: 'Subdomain unik dan toko online profesional\nsiap pakai',
+              desc: 'Subdomain unik dan toko online profesional\nsiap pakai\n',
               textButton: '  Selesai  ',
               onNext: onEnd,
             )),
